@@ -1,0 +1,11 @@
+# Render Blueprint: New > Blueprint > pick this repository. Or create a Web Service by hand with the same values.
+services:
+  - type: web
+    name: isoko-price-api
+    runtime: python
+    plan: free
+    rootDir: summative/API
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn prediction:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /
+    autoDeploy: true

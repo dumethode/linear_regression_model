@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Files the API writes while running (retraining)
+summative/API/model_versions/
+summative/API/data/retrain_log.jsonl
+
+# Flutter
+summative/FlutterApp/**/.dart_tool/
+summative/FlutterApp/**/build/
+summative/FlutterApp/**/.flutter-plugins
+summative/FlutterApp/**/.flutter-plugins-dependencies
+summative/FlutterApp/**/.idea/
+*.iml
+.DS_Store

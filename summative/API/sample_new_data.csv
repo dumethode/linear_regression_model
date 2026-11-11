@@ -1,0 +1,896 @@
+date,admin1,admin2,market,market_id,latitude,longitude,category,commodity,commodity_id,unit,priceflag,pricetype,currency,price,usdprice
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3500.0,2.39
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1600.0,1.09
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3500.0,2.39
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,450.0,0.31
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3850.0,2.63
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1700.0,1.16
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4250.0,2.9
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,375.0,0.26
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,250.0,0.17
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,650.0,0.44
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,433.33,0.3
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,933.33,0.64
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,391.67,0.27
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,525.0,0.36
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,833.33,0.57
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4400.0,3.01
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1900.0,1.3
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3883.33,2.65
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,458.33,0.31
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,283.33,0.19
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,666.67,0.46
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3800.0,2.6
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1600.0,1.09
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,766.67,0.52
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,533.33,0.36
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,933.33,0.64
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3800.0,2.6
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1680.0,1.15
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,316.67,0.22
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,250.0,0.17
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Maize,51,KG,actual,Retail,RWF,450.0,0.31
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Maize flour,76,KG,actual,Retail,RWF,1000.0,0.68
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,450.0,0.31
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Rice (imported),64,KG,actual,Retail,RWF,1400.0,0.96
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Rice (local),71,KG,actual,Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4000.0,2.73
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,miscellaneous food,Salt,185,KG,actual,Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1650.0,1.13
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,oil and fats,Oil,137,L,actual,Retail,RWF,3500.0,2.39
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,pulses and nuts,Beans (dry),262,KG,actual,Retail,RWF,900.0,0.61
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Eastern Province,Kirehe,Kigufi,2364,-2.24,30.8,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,742.86,0.51
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1142.86,0.78
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,442.86,0.3
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,842.86,0.58
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3828.57,2.62
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1600.0,1.09
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4000.0,2.73
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,371.43,0.25
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,278.57,0.19
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3800.0,2.6
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,8000.0,5.46
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1600.0,1.09
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3500.0,2.39
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,650.0,0.44
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,600.0,0.41
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3250.0,2.22
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1400.0,0.96
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3000.0,2.05
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,250.0,0.17
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,566.67,0.39
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3475.0,2.37
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1566.67,1.07
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,oil and fats,Oil (palm),62,L,actual,Retail,RWF,2800.0,1.91
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,650.0,0.44
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,775.0,0.53
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3500.0,2.39
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1400.0,0.96
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,250.0,0.17
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,633.33,0.43
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,325.0,0.22
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,566.67,0.39
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1775.0,1.21
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,oil and fats,Oil (palm),62,L,actual,Retail,RWF,2875.0,1.96
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,483.33,0.33
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,275.0,0.19
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,1050.0,0.72
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,850.0,0.58
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3550.0,2.42
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1500.0,1.02
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3000.0,2.05
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,475.0,0.32
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,250.0,0.17
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1000.0,0.68
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,5000.0,3.42
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1500.0,1.02
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3000.0,2.05
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,600.0,0.41
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,250.0,0.17
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,900.0,0.61
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3750.0,2.56
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1450.0,0.99
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,250.0,0.17
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,671.43,0.46
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,950.0,0.65
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1700.0,1.16
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4000.0,2.73
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,1000.0,0.68
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1100.0,0.75
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,actual,Retail,RWF,2000.0,1.37
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1000.0,0.68
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4000.0,2.73
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,6500.0,4.44
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1600.0,1.09
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4500.0,3.07
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,450.0,0.31
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,200.0,0.14
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,750.0,0.51
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,850.0,0.58
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4000.0,2.73
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1800.0,1.23
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,350.0,0.24
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,1000.0,0.68
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,487.5,0.33
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1180.0,0.81
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,412.5,0.28
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,787.5,0.54
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,966.67,0.66
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4000.0,2.73
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1687.5,1.15
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4333.33,2.96
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,450.0,0.31
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,525.0,0.36
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,900.0,0.61
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,700.0,0.48
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3600.0,2.46
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7000.0,4.78
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1500.0,1.02
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,5000.0,3.41
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,6500.0,4.43
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1800.0,1.23
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,250.0,0.17
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4000.0,2.73
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1800.0,1.23
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,oil and fats,Oil (palm),62,L,actual,Retail,RWF,5000.0,3.41
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,350.0,0.24
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4500.0,3.07
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1800.0,1.23
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4500.0,3.07
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,350.0,0.24
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,440.0,0.3
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,410.0,0.28
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,620.0,0.42
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4700.0,3.21
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7500.0,5.12
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1880.0,1.28
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4600.0,3.14
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,420.0,0.29
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,340.0,0.23
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,5000.0,3.41
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1600.0,1.09
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4000.0,2.73
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4500.0,3.07
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1700.0,1.16
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,750.0,0.51
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,725.0,0.49
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,725.0,0.49
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4750.0,3.24
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1620.0,1.11
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4000.0,2.73
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,325.0,0.22
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,325.0,0.22
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,450.0,0.31
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,750.0,0.51
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,5000.0,3.41
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1700.0,1.16
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,oil and fats,Oil (palm),62,L,actual,Retail,RWF,4500.0,3.07
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,250.0,0.17
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,550.0,0.38
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,2500.0,1.71
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1450.0,0.99
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,450.0,0.31
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,650.0,0.44
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,566.67,0.39
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,850.0,0.58
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3700.0,2.52
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1400.0,0.95
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3000.0,2.05
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,250.0,0.17
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,680.0,0.46
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,360.0,0.25
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,580.0,0.4
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1120.0,0.76
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1780.0,1.21
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3000.0,2.05
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,490.0,0.33
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,260.0,0.18
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,1000.0,0.68
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,250.0,0.17
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,750.0,0.51
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,7000.0,4.77
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,8000.0,5.46
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1550.0,1.06
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,oil and fats,Oil (palm),62,L,actual,Retail,RWF,2800.0,1.91
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,200.0,0.14
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,580.0,0.4
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,900.0,0.61
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4000.0,2.73
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1500.0,1.02
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,oil and fats,Oil (palm),62,L,actual,Retail,RWF,2800.0,1.91
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,275.0,0.19
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,800.0,0.55
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1233.33,0.84
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,200.0,0.14
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,525.0,0.36
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,875.0,0.6
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4500.0,3.07
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1466.67,1.0
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3200.0,2.18
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,425.0,0.29
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,275.0,0.19
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,450.0,0.31
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,250.0,0.17
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,587.5,0.4
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,875.0,0.6
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1690.91,1.15
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,oil and fats,Oil (palm),62,L,actual,Retail,RWF,3000.0,2.05
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,425.0,0.29
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,462.5,0.32
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,850.0,0.58
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1160.0,0.79
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,350.0,0.24
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,750.0,0.51
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1150.0,0.78
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4250.0,2.9
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,8000.0,5.46
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1900.0,1.3
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,oil and fats,Oil (palm),62,L,actual,Retail,RWF,5500.0,3.75
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,450.0,0.31
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,750.0,0.51
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,500.0,0.34
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1000.0,0.68
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4500.0,3.07
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1800.0,1.23
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,580.0,0.4
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,750.0,0.51
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,380.0,0.26
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,720.0,0.49
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1000.0,0.68
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,4300.0,2.93
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,7600.0,5.18
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1800.0,1.23
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,oil and fats,Oil (palm),62,L,actual,Retail,RWF,5500.0,3.75
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,480.0,0.33
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,1000.0,0.68
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Cassava,68,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Cassava flour,74,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Maize flour (imported),77,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Potatoes,83,KG,actual,Retail,RWF,400.0,0.27
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Potatoes (Irish),148,KG,actual,Retail,RWF,700.0,0.48
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Sorghum,65,KG,actual,Retail,RWF,1200.0,0.82
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,"meat, fish and eggs",Fish (dry),171,KG,actual,Retail,RWF,3600.0,2.46
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,"meat, fish and eggs",Meat (beef),141,KG,actual,Retail,RWF,8000.0,5.46
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,miscellaneous food,Sugar,97,KG,actual,Retail,RWF,1500.0,1.02
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,vegetables and fruits,Bananas,254,KG,actual,Retail,RWF,350.0,0.24
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,vegetables and fruits,Cabbage,181,KG,actual,Retail,RWF,300.0,0.2
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,vegetables and fruits,Cassava leaves,455,KG,actual,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1500.0,1.02
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3400.0,2.32
+2026-06-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.96
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3250.0,2.22
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,450.0,0.31
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3300.0,2.25
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,400.0,0.27
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,950.0,0.65
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3200.0,2.19
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,516.67,0.35
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,983.33,0.67
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1100.0,0.75
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,550.0,0.38
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3000.0,2.05
+2026-06-15,Southern Province,Gisagara,Kabuga,1068,-2.69,29.85,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,650.0,0.44
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,626.67,0.43
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,866.67,0.59
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1133.34,0.77
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3000.0,2.05
+2026-06-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,766.66,0.52
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1125.0,0.77
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,475.0,0.32
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,958.34,0.65
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1341.66,0.92
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1250.0,0.85
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,775.0,0.53
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3100.0,2.12
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,814.59,0.56
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,529.63,0.36
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,972.22,0.66
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1011.11,0.69
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1155.56,0.79
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,577.78,0.39
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3116.67,2.13
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,879.63,0.6
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,700.0,0.48
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,845.0,0.58
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1360.0,0.93
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,633.33,0.43
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,4000.0,2.73
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,1016.67,0.69
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1283.33,0.88
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,700.0,0.48
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,4500.0,3.07
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,1050.0,0.72
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,450.0,0.31
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3300.0,2.25
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,460.42,0.31
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,979.17,0.67
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3300.0,2.25
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,450.0,0.31
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3400.0,2.32
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,568.06,0.39
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1500.0,1.02
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,660.65,0.45
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3478.71,2.37
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,921.29,0.63
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3000.0,2.05
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,750.0,0.51
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,450.0,0.31
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,950.0,0.65
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3500.0,2.39
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,850.0,0.58
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,957.42,0.65
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1308.06,0.89
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1252.42,0.85
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3269.35,2.23
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,915.73,0.62
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3200.0,2.18
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,933.33,0.64
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1100.0,0.75
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3166.67,2.16
+2026-07-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,850.0,0.58
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,611.53,0.42
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,936.55,0.64
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1100.0,0.75
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,590.06,0.4
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,2990.06,2.04
+2026-07-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,830.12,0.57
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,656.53,0.45
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,976.24,0.67
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1169.85,0.8
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3014.67,2.06
+2026-07-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,901.08,0.61
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,500.0,0.34
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3000.0,2.05
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1300.0,0.89
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3000.0,2.05
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,573.77,0.39
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,822.06,0.56
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1304.41,0.89
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1100.0,0.75
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1114.71,0.76
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3144.61,2.15
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,891.05,0.61
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,583.2,0.4
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,929.34,0.63
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1297.31,0.88
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,1100.0,0.75
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3429.62,2.34
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,927.88,0.63
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,700.0,0.48
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,890.56,0.61
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1399.44,0.95
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,2000.0,1.36
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,697.22,0.48
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,4208.33,2.87
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,1123.61,0.77
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,800.0,0.55
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,880.0,0.6
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1100.0,0.75
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,733.33,0.5
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,4500.0,3.07
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,1200.0,0.82
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,830.27,0.57
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,890.93,0.61
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1400.0,0.95
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1020.3,0.7
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,"actual,aggregate",Retail,RWF,2000.0,1.36
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,715.14,0.49
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,4500.0,3.07
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,1180.4,0.81
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Maize,51,KG,"actual,aggregate",Retail,RWF,600.0,0.41
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Maize flour,76,KG,"actual,aggregate",Retail,RWF,900.0,0.61
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Rice (imported),64,KG,"actual,aggregate",Retail,RWF,1313.33,0.9
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,Rice (local),71,KG,"actual,aggregate",Retail,RWF,1000.0,0.68
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,miscellaneous food,Salt,185,KG,"actual,aggregate",Retail,RWF,700.0,0.48
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,oil and fats,Oil,137,L,"actual,aggregate",Retail,RWF,3700.0,2.52
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,pulses and nuts,Beans (dry),262,KG,"actual,aggregate",Retail,RWF,1116.67,0.76
+2026-06-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1800.0,1.23
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,500.0,0.34
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,900.0,0.61
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.96
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1800.0,1.23
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,oil and fats,Oil,137,L,aggregate,Retail,RWF,3400.0,2.32
+2026-06-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,800.0,0.55
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,576.67,0.39
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,976.67,0.67
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1476.67,1.01
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1891.3,1.29
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1250.0,0.85
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,oil and fats,Oil,137,L,aggregate,Retail,RWF,3476.67,2.37
+2026-06-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,911.67,0.62
+2026-06-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,488.89,0.33
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,988.89,0.68
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1344.44,0.92
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,oil and fats,Oil,137,L,aggregate,Retail,RWF,3344.44,2.28
+2026-06-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,811.11,0.55
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,523.33,0.36
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,965.0,0.66
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1360.0,0.93
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1323.33,0.9
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,oil and fats,Oil,137,L,aggregate,Retail,RWF,3290.0,2.25
+2026-06-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,900.0,0.61
+2026-06-15,Eastern Province,Kirehe,Nyakarambi,1095,-2.27,30.68,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,604.17,0.41
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,968.75,0.66
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,559.38,0.38
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,oil and fats,Oil,137,L,aggregate,Retail,RWF,2937.5,2.01
+2026-06-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,783.33,0.54
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,670.56,0.46
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,oil and fats,Oil,137,L,aggregate,Retail,RWF,3031.11,2.07
+2026-06-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,858.89,0.59
+2026-06-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1625.0,1.11
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,900.0,0.61
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.96
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1400.0,0.96
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,oil and fats,Oil,137,L,aggregate,Retail,RWF,3000.0,2.05
+2026-06-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,900.0,0.61
+2026-06-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1377.78,0.94
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,588.33,0.4
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,958.89,0.65
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,8017.78,5.48
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1158.33,0.79
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,oil and fats,Oil,137,L,aggregate,Retail,RWF,3391.67,2.32
+2026-06-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,957.78,0.65
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1866.67,1.28
+2026-06-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,750.0,0.51
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,840.0,0.57
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.96
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1800.0,1.23
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,900.0,0.61
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,700.0,0.48
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,oil and fats,Oil,137,L,aggregate,Retail,RWF,4200.0,2.87
+2026-06-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,739.13,0.5
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,905.67,0.62
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1424.35,0.97
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1784.44,1.22
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1891.67,1.29
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,716.67,0.49
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,oil and fats,Oil,137,L,aggregate,Retail,RWF,4383.33,2.99
+2026-06-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1247.78,0.85
+2026-06-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1800.0,1.23
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,800.0,0.55
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1500.0,1.02
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,2000.0,1.37
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,oil and fats,Oil,137,L,aggregate,Retail,RWF,3800.0,2.6
+2026-06-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Gatsibo,Bubare,2373,-1.6,30.25,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1900.0,1.3
+2026-07-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1683.33,1.15
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,500.0,0.34
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,900.0,0.61
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1800.0,1.23
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,oil and fats,Oil,137,L,aggregate,Retail,RWF,3400.0,2.32
+2026-07-15,Eastern Province,Gatsibo,Ngarama,7312,-1.54,30.24,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,800.0,0.55
+2026-07-15,Eastern Province,Gatsibo,Ntungaruze,2375,-1.6,30.27,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-07-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1877.42,1.28
+2026-07-15,Eastern Province,Kirehe,Gatore,1060,-2.28,30.59,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1500.0,1.02
+2026-07-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,400.0,0.27
+2026-07-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-07-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-07-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-07-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-07-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,oil and fats,Oil,137,L,aggregate,Retail,RWF,3300.0,2.25
+2026-07-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,700.0,0.48
+2026-07-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1409.68,0.96
+2026-07-15,Eastern Province,Kirehe,Nyamugari,2360,-2.28,30.77,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,475.0,0.32
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,866.67,0.59
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.89
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1700.0,1.16
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,oil and fats,Oil,137,L,aggregate,Retail,RWF,3133.33,2.14
+2026-07-15,Southern Province,Gisagara,Gisagara,7389,-2.6,29.84,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,750.0,0.51
+2026-07-15,Southern Province,Nyamagabe,Gasarenda,1057,-2.51,29.48,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-07-15,Southern Province,Nyamagabe,Kabacuzi,1065,-2.47,29.58,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-07-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1229.41,0.84
+2026-07-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1446.15,0.99
+2026-07-15,Western Province,Karongi,Karongi,2377,-2.07,29.35,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1963.89,1.34
+2026-07-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-07-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1967.74,1.34
+2026-07-15,Western Province,Karongi,Mubuga,2378,-2.14,29.31,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,633.33,0.43
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,840.0,0.57
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,700.0,0.48
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,oil and fats,Oil,137,L,aggregate,Retail,RWF,4300.0,2.93
+2026-07-15,Western Province,Karongi,Rubengera,8118,-2.06,29.41,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,500.0,0.34
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,900.0,0.61
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1800.0,1.23
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,oil and fats,Oil,137,L,aggregate,Retail,RWF,3300.0,2.25
+2026-08-15,Eastern Province,Gatsibo,Mugera,2374,-1.6,30.28,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,800.0,0.54
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,580.56,0.4
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,961.11,0.65
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1461.11,0.99
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1844.44,1.26
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,661.11,0.45
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,oil and fats,Oil,137,L,aggregate,Retail,RWF,3500.0,2.38
+2026-08-15,Eastern Province,Gatsibo,Nyabiheke (Camp),2372,-1.6,30.26,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,938.89,0.64
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,500.0,0.34
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,900.0,0.61
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,oil and fats,Oil,137,L,aggregate,Retail,RWF,3200.0,2.18
+2026-08-15,Eastern Province,Kirehe,Kabeza,2363,-2.31,30.83,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-08-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,400.0,0.27
+2026-08-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-08-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-08-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,oil and fats,Oil,137,L,aggregate,Retail,RWF,3300.0,2.25
+2026-08-15,Eastern Province,Kirehe,Kiyanzi,2361,-2.35,30.76,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,700.0,0.48
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,500.0,0.34
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,1000.0,0.68
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1422.22,0.97
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1222.22,0.83
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,oil and fats,Oil,137,L,aggregate,Retail,RWF,3155.56,2.15
+2026-08-15,Eastern Province,Kirehe,Mahama (Camp),2368,-2.31,30.84,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1033.33,0.7
+2026-08-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,933.33,0.64
+2026-08-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-08-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,oil and fats,Oil,137,L,aggregate,Retail,RWF,3166.67,2.16
+2026-08-15,Southern Province,Gisagara,Kibirizi,1073,-2.65,29.78,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,850.0,0.58
+2026-08-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,916.67,0.62
+2026-08-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-08-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,oil and fats,Oil,137,L,aggregate,Retail,RWF,3033.33,2.06
+2026-08-15,Southern Province,Gisagara,Mugombwa,2381,-2.68,29.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,833.33,0.57
+2026-08-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,651.85,0.44
+2026-08-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,992.59,0.68
+2026-08-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1192.59,0.81
+2026-08-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,oil and fats,Oil,137,L,aggregate,Retail,RWF,3051.85,2.08
+2026-08-15,Southern Province,Gisagara,Mugombwa (Camp),2367,-2.67,29.85,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,951.85,0.65
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,555.56,0.38
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,877.78,0.6
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1322.22,0.9
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1433.33,0.98
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1177.78,0.8
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1177.78,0.8
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,oil and fats,Oil,137,L,aggregate,Retail,RWF,3116.67,2.12
+2026-08-15,Southern Province,Nyamagabe,Kigeme,2359,-2.49,29.52,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,938.89,0.64
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,988.89,0.67
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1300.0,0.88
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,1500.0,1.02
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,600.0,0.41
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,oil and fats,Oil,137,L,aggregate,Retail,RWF,3888.89,2.65
+2026-08-15,Southern Province,Nyamagabe,Kigeme (Camp),2371,-2.48,29.52,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,985.19,0.67
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,800.0,0.54
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,880.0,0.6
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,733.33,0.5
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,oil and fats,Oil,137,L,aggregate,Retail,RWF,4500.0,3.06
+2026-08-15,Western Province,Karongi,Kivuruga,2379,-2.16,29.39,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1200.0,0.82
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize,51,KG,aggregate,Retail,RWF,800.0,0.54
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Maize flour,76,KG,aggregate,Retail,RWF,893.33,0.61
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Rice (imported),64,KG,aggregate,Retail,RWF,1400.0,0.95
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,"Rice (imported, Tanzanian)",381,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,Rice (local),71,KG,aggregate,Retail,RWF,1100.0,0.75
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,cereals and tubers,"Rice (long grain, high quality, local)",379,KG,aggregate,Retail,RWF,2000.0,1.36
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,miscellaneous food,Salt,185,KG,aggregate,Retail,RWF,800.0,0.54
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,oil and fats,Oil,137,L,aggregate,Retail,RWF,4500.0,3.06
+2026-08-15,Western Province,Karongi,Kiziba (Camp),2376,-2.13,29.36,pulses and nuts,Beans (dry),262,KG,aggregate,Retail,RWF,1200.0,0.82
