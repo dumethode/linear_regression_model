@@ -105,14 +105,13 @@ cd API && uv run uvicorn prediction:app --reload   # local API on http://127.0.0
 
 `API/requirements.txt` is exported with `uv export --format requirements.txt --no-hashes -o API/requirements.txt` (run in `summative/`).
 
-**Render settings** (or use `render.yaml` as a Blueprint): Web Service, root directory `summative/API`, build command `pip install -r requirements.txt`, start command `uvicorn prediction:app --host 0.0.0.0 --port $PORT`, free plan.
+**Render settings**: Web Service, root directory `summative/API`, build command `pip install -r requirements.txt`, start command `uvicorn prediction:app --host 0.0.0.0 --port $PORT`, free plan.
 
 ## Repository structure
 
 ```
 linear_regression_model/
 ├── README.md
-├── render.yaml
 └── summative/
     ├── pyproject.toml
     ├── uv.lock
