@@ -2,16 +2,15 @@
 
 ## Mission and problem
 
-My mission is to empower rural farmers in Rwanda with real time information on prices, weather and market opportunities.
-Many smallholder farmers sell to traders without knowing the usual market price, so they often accept offers that are too low.
-This project predicts the expected price (RWF per kg, litre or piece) of a farm product at a given market, month and year.
-Farmers, cooperatives and extension officers can use it to judge an offer and to compare markets before selling.
+My mission is to provide actual time information on price and market opportunities to the rural farmers of Rwanda.
+Many smallholder farmers are not aware of the market price in Kigali, and might accept offers below the market rate.
+This project aims to foresee the predicted price (RWF / kg, litre or piece) of a commodity in a market, a particular month and year. It can be used to evaluate an offer and to compare markets before selling by farmers, cooperatives and extension officers.
 
 ## Dataset
 
 **WFP Rwanda Food Prices**, World Food Programme, on the Humanitarian Data Exchange: https://data.humdata.org/dataset/wfp-food-prices-for-rwanda
 
-WFP compiles monthly retail and wholesale prices from its own Rwanda market monitoring (price collection in markets and mVAM phone surveys) and from MINAGRI and FAO (GIEWS / FPMA) price series. The file has **157,692 rows and 16 columns** (January 2000 to August 2026): province, district, market (109), coordinates, product (65), category, unit, price type, price flag, price in RWF and price in USD. After cleaning I model **153,630 rows from 2008 to May 2026**. The last three months (895 rows) are kept as new data to test retraining. The copy I used is `summative/linear_regression/wfp_food_prices_rwa.csv`.
+WFP collates prices from the Rwanda market monitoring (price collection in markets and mVAM phone surveys) and from MINAGRI and FAO (GIEWS / FPMA) price series on a monthly basis. This file contains 157,692 rows by 16 columns—(January 2000 August 2026) province, district, market (109), coordinates, product (65), category, unit, price type, price flag, price in RWF and price in USD. After cleaning I model **153,630 rows from 2008 to May 2026**. The last 3 months (895 rows) are retained as new data to be used for retraining. The copy that I have used is in summative/linear_regression/wfp_food_prices_rwa.csv.
 
 ## API (Swagger UI)
 
@@ -21,7 +20,7 @@ The API runs on Render's free plan. If nobody used it for 15 minutes it sleeps, 
 
 ## Video demo
 
-**YouTube: https://youtu.be/REPLACE_WITH_VIDEO_ID**
+**YouTube: https://youtu.be/W3-plW055UY**
 
 ## How to run the mobile app
 
@@ -53,9 +52,9 @@ The app calls the public API, so you do not need to run the API on your computer
 | Linear regression (SGD, gradient descent) | 0.0769 | 0.0771 | 0.934 | 21.4% |
 | Baseline (always the average) | 1.1909 | 1.1723 | 0.000 | 94.5% |
 
-MSE is measured on `log(1 + price)`, because prices range from about 20 RWF for a kg of sweet potatoes to over 300,000 RWF for a cow. The random forest has the lowest test MSE, so it is saved in `summative/API/best_model.pkl` together with its preprocessing (one scikit-learn `Pipeline`). It is only deployed because it passes my rule: R² of at least 0.80 and a test MSE of at most 50% of the baseline.
+MSE is calculated on the log(1 + price), due to the very different range of prices (from 20 RWF per kg sweet potatoes to more than 300,000 RWF per cow). The test MSE is lowest for the random forest, and the model is saved, along with its preprocessing (one scikit-learn `Pipeline`), in summative/API/best_model.pkl. It is only deployed due to my rule of R² of at least 0.80 and a test MSE of no more than 50% of the baseline.
 
-Inputs: `year`, `month`, `market`, `commodity`, `price_type`. The notebook explains every dropped column (for example `usdprice` leaks the answer, and district, province and coordinates are already fixed by the market).
+Input variables are: year, month, market, commodity, price_type. The notebook includes detailed explanations for each lost column (e.g., usdprice contains the solution; district, province and coordinates are already known due to the market).
 
 ## API routes
 
@@ -79,13 +78,13 @@ Input checks (Pydantic): `year` and `month` must be real integers (`"2026"` as t
 
 Uploading a CSV to `/retrain` starts the update. The API:
 
-1. cleans the rows like the notebook (drops non food items, prices of 0 or less, years outside 2008 to 2027, and prices more than 4 times above or below what the current model expects);
-2. refuses the whole file if more than 25% of the rows are over 2 times away from the expected price, because that usually means a broken file (wrong column, wrong unit);
-3. adds the new rows to the **original training rows** (a newer price for the same month, market and product replaces the old one), keeps 20% of the new rows aside for testing, and refits the random forest (an SGD model would instead continue with `partial_fit`);
-4. compares the new model with the current one on the original test rows plus the new test rows. It switches to the new model only if it is not worse than the current one, overall and on the new rows, and still passes the R² and baseline rule;
-5. keeps the old version in `model_versions/` and logs every attempt in `data/retrain_log.jsonl`. `/predict` uses the new model right away, with no redeploy.
+1. removes the rows similar to the notebook (removes non food items, prices of 0 or less, years outside 2008 to 2027, and prices more than 4 times above or below what the current model expects);
+2. rejects the entire file if > 25% of the rows are more than 2x away from the expected price – this normally means that the file is broken (incorrect column, incorrect unit);
+3. adds the new rows to the previously trained rows *original training rows* (a newer price for the same month, market and product replaces the old one), and keeps 20% of the new rows as test data, while still retaining the ability for the random forest to do `partial_fit` (an SGD model will just continue to do `partial_fit`).
+4. compares the new model to the old model along the old rows and new rows. It can only switch to the new model if its performance is not worse than the old model in general, and on the new rows, and still meets the R² and baseline rule;
+The old version is stored in `model_versions/`, however, every attempt is logged in `data/retrain_log.jsonl` and /predict uses the new model right away without redeploying.
 
-To try it, upload `summative/API/sample_new_data.csv` (June to August 2026) in Swagger. On Render's free plan, files written at runtime are lost when the service restarts or sleeps, so after a restart the API loads the model from the repository again. This is accepted for this assignment.
+It can be tested in Swagger by uploading summative/API/sample_new_data.csv (June - August 2026) file. If the service restarts or goes to sleep, any file that was created during runtime will be deleted and the API will load the model from the repository once more in that case, with the free plan of Render. This will be accepted for this assignment.
 
 ### CORS
 
